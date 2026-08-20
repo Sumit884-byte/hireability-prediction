@@ -1,0 +1,17 @@
+[
+  {"company": "Meta", "event_date": "2026-05-01", "headcount": 3600, "industry": "Social Media", "country": "United States"},
+  {"company": "Amazon", "event_date": "2026-04-15", "headcount": 14000, "industry": "E-commerce", "country": "United States"},
+  {"company": "Google", "event_date": "2026-03-20", "headcount": 1200, "industry": "Search/AI", "country": "United States"},
+  {"company": "Microsoft", "event_date": "2026-02-10", "headcount": 1900, "industry": "Enterprise Software", "country": "United States"},
+  {"company": "Salesforce", "event_date": "2026-01-08", "headcount": 700, "industry": "SaaS", "country": "United States"},
+  {"company": "Intel", "event_date": "2025-12-05", "headcount": 15000, "industry": "Semiconductors", "country": "United States"},
+  {"company": "Dell", "event_date": "2025-11-18", "headcount": 6000, "industry": "Hardware", "country": "United States"},
+  {"company": "Spotify", "event_date": "2025-10-22", "headcount": 1500, "industry": "Streaming", "country": "Sweden"},
+  {"company": "Stripe", "event_date": "2025-09-30", "headcount": 300, "industry": "Fintech", "country": "United States"},
+  {"company": "Coinbase", "event_date": "2025-08-14", "headcount": 950, "industry": "Crypto", "country": "United States"},
+  {"company": "Unity", "event_date": "2025-07-02", "headcount": 600, "industry": "Gaming", "country": "United States"},
+  {"company": "Snap", "event_date": "2025-06-11", "headcount": 530, "industry": "Social Media", "country": "United States"},
+  {"company": "PayPal", "event_date": "2025-05-27", "headcount": 2500, "industry": "Fintech", "country": "United States"},
+  {"company": "Tesla", "event_date": "2025-04-09", "headcount": 14000, "industry": "Automotive", "country": "United States"},
+  {"company": "IBM", "event_date": "2025-03-15", "headcount": 3900, "industry": "Enterprise Software", "country": "United States"}
+]

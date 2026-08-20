@@ -1,0 +1,19 @@
+{
+  "tier1": [
+    "google", "alphabet", "meta", "facebook", "apple", "amazon", "microsoft",
+    "netflix", "nvidia", "openai", "anthropic", "deepmind", "tesla"
+  ],
+  "tier2": [
+    "stripe", "uber", "airbnb", "databricks", "snowflake", "palantir",
+    "linkedin", "twitter", "coinbase", "shopify", "spotify", "dropbox",
+    "atlassian", "datadog", "cloudflare", "figma", "notion", "discord",
+    "doordash", "instacart", "lyft", "snap", "pinterest", "reddit",
+    "block", "square", "twilio", "mongodb", "elastic", "hashicorp"
+  ],
+  "tier3": [
+    "salesforce", "adobe", "oracle", "ibm", "intel", "cisco", "paypal",
+    "sap", "vmware", "servicenow", "workday", "intuit", "autodesk",
+    "splunk", "zoom", "okta", "hubspot", "zendesk", "freshworks",
+    "tcs", "infosys", "wipro", "hcl", "accenture", "cognizant"
+  ]
+}

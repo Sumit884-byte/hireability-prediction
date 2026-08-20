@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/hireability.db
+data/cron_state.json
+data/daily_ingest.log
+data/cron.log
+data/login.log
+*.egg-info/
+.pytest_cache/

@@ -1,0 +1,31 @@
+name: Alex Developer
+role: Backend Engineer
+location: Remote
+work_preference: remote  # remote | on_site | hybrid | any
+is_student: false
+has_degree: true
+degree_level: bachelor  # none | associate | bachelor | master | doctorate
+degree_field: software_engineering  # ai | data_science | computer_science | software_engineering | business | design | cybersecurity | general
+experience_years: 4
+current_company: Google
+employers:
+  - Google
+  - Stripe
+
+skills:
+  - name: Python
+    weight: 1.0
+  - name: FastAPI
+    weight: 0.9
+  - name: PostgreSQL
+    weight: 0.8
+  - name: Docker
+    weight: 0.7
+  - name: AWS
+    weight: 0.6
+  - name: Machine Learning
+    weight: 0.4
+
+# Optional: paste resume text to auto-extract additional skills
+# resume_text: |
+#   Built REST APIs with FastAPI and deployed on AWS ECS...
